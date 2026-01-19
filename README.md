@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d05b3d02-f655-4fc1-bc68-1fe6e8f6089a" />
+
 # 🍅 TimeFocus
 
 **CLI Productivity Timer & Focus Manager**
@@ -277,6 +279,9 @@ Benefits:
 - ✅ Less burnout
 
 ---
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d3f3f781-ce57-4167-858b-38cc13d5e195" />
+
 
 ## 🤝 Contributing
 
